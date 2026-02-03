@@ -1,0 +1,1 @@
+Code for a Bluetooth speaker using an ESP32. This speaker includes volume up, volume down, and media buttons. There is also a way for the speaker to forget all possible connections if there is an error.
